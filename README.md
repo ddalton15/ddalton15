@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ddalton15
 - 👀 I’m interested in Machine Learning and Software Engineering
-- 🌱 I’m currently learning C & Unix
-- 💞️ I’m looking to collaborate on machine learning projects
+- 🌱 I’m currently learning JavaScript & React
 - 📫 How to reach me dillondalton0952362@gmail.com
 
 <!---
